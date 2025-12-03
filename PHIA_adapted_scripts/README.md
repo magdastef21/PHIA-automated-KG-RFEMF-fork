@@ -9,7 +9,7 @@ Background
 While recent WHO systematic reviews have comprehensively assessed direct RF-EMF health effects, considerably less attention has been given to potential indirect effects arising through ecological pathways. This project introduces a PHIA approach that integrates both:
            direct organism-level health implications, and
            indirect impacts mediated through ecosystems.
-Developing such a framework requires a structured method for capturing complex, interdisciplinary evidence. This repository supports that process through expert-based and AI-assisted KG construction.
+Developing such a framework requires a structured method for capturing complex, interdisciplinary evidence. This repository supports that process through AI-assisted KG construction.
 
 Automated information extraction scripts
 
